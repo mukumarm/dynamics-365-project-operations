@@ -37,6 +37,14 @@ To post an expense report, on the **Approved expense reports** page, select the 
 
 You can also post all the expense reports in the list at the same time. Select all the expense reports, and then select **Post**.
 
+## Enable auto posting of expense reports
+
+To automate the posting of expense reports, the **Expense report auto-posting** workflow must be configured. Once this workflow is enabled, the system will automatically execute the auto-posting process to post the expense reports.
+
+## Enable auto posting of expenses
+
+If expense approval is configured for expense lines and auto-posting is required, then the **Expense line item auto-posting** workflow must be configured. Once this workflow is enabled, the system will automatically execute the auto-posting process to post the expenses.
+
 ## Enable the Ability to post expense liability in vendor currency for cash payment method feature
 
 The **Ability to post expense liability in vendor currency for cash payment method** feature enables expense reports to be posted in a vendor currency for the cash payment method.
